@@ -1,0 +1,1 @@
+print("linh tinh ba lang nhang")
