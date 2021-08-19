@@ -1,0 +1,1 @@
+print ("day la file trong dev5 nhanh 1")
