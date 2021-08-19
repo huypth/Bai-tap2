@@ -1,0 +1,1 @@
+print("day la dev3_nhanh1")
